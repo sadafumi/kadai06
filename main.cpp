@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	std::cout << "00,²“¡—m•½" << std::endl;
+	std::cout << "ƒNƒ‰ƒX‹L† oÈ”Ô†,²“¡—m•½" << std::endl;
 
 
 
